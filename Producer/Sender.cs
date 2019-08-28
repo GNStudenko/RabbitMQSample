@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Producer
 {
-    class Sender
+    public class Sender
     {
     }
 }
